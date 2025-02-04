@@ -1,6 +1,10 @@
 #Projects
 
 **Blog Application:**
+<img width="1661" alt="Screenshot 2025-02-04 at 3 08 49 PM" src="https://github.com/user-attachments/assets/89d1c264-fcf3-4475-814e-8fa5f1e33d43" />
+<img width="1661" alt="Screenshot 2025-02-04 at 3 08 56 PM" src="https://github.com/user-attachments/assets/2060e7ec-e3b2-46bb-aeaa-6e0b3660ba64" />
+<img width="1661" alt="Screenshot 2025-02-04 at 3 09 35 PM" src="https://github.com/user-attachments/assets/a9d96b69-a4af-4aff-bdde-f9777fd9172c" />
+<img width="1661" alt="Screenshot 2025-02-04 at 3 09 24 PM" src="https://github.com/user-attachments/assets/a529611c-4b01-49de-857f-b164a30053a6" />
 
 **Overview**
 This is a fully functional Blog Application built using the MERN stack (MongoDB, Express, Node.js, and Mongoose). It provides users with a seamless experience to register, log in as an admin, manage blog posts, and navigate through paginated content.
